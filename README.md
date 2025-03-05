@@ -41,9 +41,9 @@ The project utilizes Natural Language Processing (NLP) techniques to compare tex
 ```
 Plagiarism Report:
 ----------------------------------
-Similarity between om.txt and aayush.txt: 14%
-Similarity between om.txt and bhadrik.txt: 18%
-Similarity between aayush.txt and bhadrik.txt: 54%
+Similarity between om.txt and aayush.txt: 80%
+Similarity between om.txt and bhadrik.txt: 61%
+Similarity between aayush.txt and bhadrik.txt: 74%
 ----------------------------------
 Potentially plagiarized sections highlighted in report.txt.
 ```
